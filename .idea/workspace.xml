@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97f6f5b6-ca82-4a6b-8b80-23ebe0edb22f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ActionScript Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1at1Ckel1DDJaTq02MRgusGPgr3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cer" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.tslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cer" />
+      <recent name="$PROJECT_DIR$/CaroGame/img" />
+      <recent name="$PROJECT_DIR$/dotGame" />
+    </key>
+    <key name="CreateActionScriptClassDialog.DESTINATION_PACKAGE_RECENT_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cer" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/MainMenu/font" />
+      <recent name="$PROJECT_DIR$/MainMenu/sound" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flash App.IOS_RELEASE">
+    <configuration name="IOS_DEV" type="FlashRunConfigurationType">
+      <option name="BCName" value="IOS_DEV" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="iPhoneRetina" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="iOSDevice" />
+      <option name="moduleName" value="TestGame1" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOS_RELEASE" type="FlashRunConfigurationType">
+      <option name="BCName" value="IOS_RELEASE" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="iPhoneRetina" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="iOSDevice" />
+      <option name="moduleName" value="TestGame1" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGame1" type="FlashRunConfigurationType">
+      <option name="BCName" value="TestGame1" />
+      <option name="IOSSimulatorDevice" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="clearAppDataOnEachLaunch" value="true" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="iPhoneRetina" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="TestGame1" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Flash App.TestGame1" />
+      <item itemvalue="Flash App.IOS_DEV" />
+      <item itemvalue="Flash App.IOS_RELEASE" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../sd-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97f6f5b6-ca82-4a6b-8b80-23ebe0edb22f" name="Default Changelist" comment="" />
+      <created>1587539950772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587539950772</updated>
+      <workItem from="1587539958795" duration="36206000" />
+      <workItem from="1588039174457" duration="12442000" />
+      <workItem from="1588525639747" duration="1836000" />
+      <workItem from="1588557680117" duration="13520000" />
+      <workItem from="1588644463508" duration="14538000" />
+      <workItem from="1588730807220" duration="14447000" />
+      <workItem from="1588753166104" duration="9422000" />
+      <workItem from="1588816838920" duration="20215000" />
+      <workItem from="1588846202045" duration="1678000" />
+      <workItem from="1588903090761" duration="20539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="196" key="#Project_Structure" timestamp="1588846407181">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="543" y="196" key="#Project_Structure/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588846407181" />
+    <state x="347" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588932229760">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="347" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588932229760" />
+    <state x="304" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.986@0.23.1680.986" timestamp="1587541042998" />
+    <state x="659" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588760441806">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="659" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588760441806" />
+    <state x="577" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.986@0.23.1680.986" timestamp="1588058532819" />
+    <state width="660" height="596" key="DebuggerActiveHint" timestamp="1588817656365">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="660" height="596" key="DebuggerActiveHint/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588817656365" />
+    <state width="577" height="578" key="DebuggerActiveHint/0.23.1680.986@0.23.1680.986" timestamp="1588040418003" />
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom" timestamp="1588927891971">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891971" />
+    <state width="1638" height="329" key="GridCell.Tab.0.bottom/0.23.1680.986@0.23.1680.986" timestamp="1588149865287" />
+    <state width="1878" height="275" key="GridCell.Tab.0.center" timestamp="1588927891970">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891970" />
+    <state width="1638" height="329" key="GridCell.Tab.0.center/0.23.1680.986@0.23.1680.986" timestamp="1588149865285" />
+    <state width="1878" height="275" key="GridCell.Tab.0.left" timestamp="1588927891970">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891970" />
+    <state width="1638" height="329" key="GridCell.Tab.0.left/0.23.1680.986@0.23.1680.986" timestamp="1588149865283" />
+    <state width="1878" height="275" key="GridCell.Tab.0.right" timestamp="1588927891971">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="275" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891971" />
+    <state width="1638" height="329" key="GridCell.Tab.0.right/0.23.1680.986@0.23.1680.986" timestamp="1588149865286" />
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom" timestamp="1588908599134">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599134" />
+    <state width="1638" height="329" key="GridCell.Tab.1.bottom/0.23.1680.986@0.23.1680.986" timestamp="1588149865288" />
+    <state width="1878" height="340" key="GridCell.Tab.1.center" timestamp="1588908599133">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599133" />
+    <state width="1638" height="329" key="GridCell.Tab.1.center/0.23.1680.986@0.23.1680.986" timestamp="1588149865288" />
+    <state width="1878" height="340" key="GridCell.Tab.1.left" timestamp="1588908599132">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599132" />
+    <state width="1638" height="329" key="GridCell.Tab.1.left/0.23.1680.986@0.23.1680.986" timestamp="1588149865287" />
+    <state width="1878" height="340" key="GridCell.Tab.1.right" timestamp="1588908599134">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state width="1878" height="340" key="GridCell.Tab.1.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599134" />
+    <state width="1638" height="329" key="GridCell.Tab.1.right/0.23.1680.986@0.23.1680.986" timestamp="1588149865288" />
+    <state x="375" y="99" key="SettingsEditor" timestamp="1588932232799">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="375" y="99" key="SettingsEditor/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588932232799" />
+    <state x="328" y="97" key="SettingsEditor/0.23.1680.986@0.23.1680.986" timestamp="1588067703700" />
+    <state x="114" y="126" width="1692" height="810" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588824994004">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="114" y="126" width="1692" height="810" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588824994004" />
+    <state x="100" y="123" width="1480" height="786" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.986@0.23.1680.986" timestamp="1587715733184" />
+    <state x="640" y="288" width="639" height="486" key="find.popup" timestamp="1588924862554">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="640" y="288" width="639" height="486" key="find.popup/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588924862554" />
+    <state x="688" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1588762780744">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="688" y="155" key="refactoring.ChangeSignatureDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588762780744" />
+    <state x="625" y="245" key="run.anything.popup" timestamp="1588905578421">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="625" y="245" key="run.anything.popup/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588905578421" />
+    <state x="625" y="249" width="670" height="676" key="search.everywhere.popup" timestamp="1588824061023">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="625" y="249" width="670" height="676" key="search.everywhere.popup/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588824061023" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="flex">
+          <url>file://$PROJECT_DIR$/MainMenu/Main.as</url>
+          <line>62</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
