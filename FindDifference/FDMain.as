@@ -112,6 +112,7 @@ public class FDMain extends Sprite{
     }
 
     function onClickTick(e:MouseEvent):void{
+        e.target.tickRight.visible = true;
         e.target.isClicked = true;
         moveSound.play();
         removeEventListener(MouseEvent.CLICK, onClickTick);

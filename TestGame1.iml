@@ -23,15 +23,13 @@
               <dependency linkage="Merged" />
             </entry>
           </entries>
-          <sdk name="AIRSDK_33.1" />
+          <sdk name="SDK33" />
         </dependencies>
         <compiler-options />
         <packaging-air-desktop />
         <packaging-android package-file-name="IOS_DEV" />
         <packaging-ios enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/ios_development.xml" package-file-name="IOS_DEV">
           <files-to-package>
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/Assets.car" path-in-package="Assets.car" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/icon" path-in-package="icon" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-568h@2x.png" path-in-package="Default-568h@2x.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-812h@3x~iphone.png" path-in-package="Default-812h@3x~iphone.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-Landscape-812h@3x~iphone.png" path-in-package="Default-Landscape-812h@3x~iphone.png" />
@@ -40,8 +38,10 @@
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-Portrait.png" path-in-package="Default-Portrait.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-Portrait@2x.png" path-in-package="Default-Portrait@2x.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default@2x.png" path-in-package="Default@2x.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/Assets.car" path-in-package="Assets.car" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/icon" path-in-package="icon" />
           </files-to-package>
-          <AirSigningOptions keystore-path="$MODULE_DIR$/cer/Certificates.p12" provisioning-profile-path="$MODULE_DIR$/cer/vilanphuong_dev.mobileprovision" />
+          <AirSigningOptions keystore-path="$MODULE_DIR$/cer/development_cer.p12" provisioning-profile-path="$MODULE_DIR$/cer/profile_dev-6.mobileprovision" />
         </packaging-ios>
       </configuration>
       <configuration name="IOS_RELEASE" target-platform="Mobile" pure-as="true" main-class="Main" output-file="IOS_RELEASE.swf" output-folder="$MODULE_DIR$/out/production/TestGame1">
@@ -51,15 +51,13 @@
               <dependency linkage="Merged" />
             </entry>
           </entries>
-          <sdk name="AIRSDK_33.1" />
+          <sdk name="SDK33" />
         </dependencies>
         <compiler-options />
         <packaging-air-desktop />
         <packaging-android package-file-name="IOS_RELEASE" />
         <packaging-ios enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/ios_release.xml" package-file-name="IOS_RELEASE">
           <files-to-package>
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/Assets.car" path-in-package="Assets.car" />
-            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/icon" path-in-package="icon" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-568h@2x.png" path-in-package="Default-568h@2x.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-812h@3x~iphone.png" path-in-package="Default-812h@3x~iphone.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-Landscape-812h@3x~iphone.png" path-in-package="Default-Landscape-812h@3x~iphone.png" />
@@ -68,8 +66,10 @@
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-Portrait.png" path-in-package="Default-Portrait.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default-Portrait@2x.png" path-in-package="Default-Portrait@2x.png" />
             <FilePathAndPathInPackage file-path="$MODULE_DIR$/IOSLoader/Default@2x.png" path-in-package="Default@2x.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/Assets.car" path-in-package="Assets.car" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets/icon" path-in-package="icon" />
           </files-to-package>
-          <AirSigningOptions keystore-path="$MODULE_DIR$/cer/Certificates_dis.p12" provisioning-profile-path="$MODULE_DIR$/cer/Profile_dis-4.mobileprovision" />
+          <AirSigningOptions keystore-path="$MODULE_DIR$/cer/distribution_Cer.p12" provisioning-profile-path="$MODULE_DIR$/cer/final_profile_dis.mobileprovision" />
         </packaging-ios>
       </configuration>
     </configurations>
@@ -88,8 +88,9 @@
       <sourceFolder url="file://$MODULE_DIR$/NumberGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BubbleGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FindDifference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HiddenQuest" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="AIRSDK_33.1&#9;sdk32" jdkType="__CompositeFlexSdk__" />
+    <orderEntry type="jdk" jdkName="sdk32&#9;SDK33" jdkType="__CompositeFlexSdk__" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
       <library type="flex">

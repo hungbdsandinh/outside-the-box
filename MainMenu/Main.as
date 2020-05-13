@@ -24,6 +24,7 @@ public class Main extends Sprite{
     private const LOGO:Class;
 
     public function Main() {
+
 //        init();
         var bg:Bitmap = new BACK_GROUND();
         bg = SDUtils.getFitImage(bg, Consts.GAME_WIDTH, Consts.GAME_HEIGHT);

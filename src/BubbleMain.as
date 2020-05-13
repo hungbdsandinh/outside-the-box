@@ -170,10 +170,8 @@ public class BubbleMain extends Sprite {
             }
         }
         if(count == 10){
-            var winPU:PopUpWin = new PopUpWin(IdGame);
-            winPU.x = bg.x + (bg.width - winPU.width)/2;
-            winPU.y = bg.y + (bg.height - winPU.height)/2;
-            addChild(winPU);
+            var matchGame:MatchGameMain = new MatchGameMain();
+            addChild(matchGame);
             Utils.saveLocalStorage("pass-lv-" + (IdGame).toString(), "true");
         } else return;
     }

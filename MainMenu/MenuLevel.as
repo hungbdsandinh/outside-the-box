@@ -14,7 +14,11 @@ public class MenuLevel extends Sprite{
     [Embed(source='CSS/select.png')]
     private const LEVEL_TITLE:Class;
 
+    [Embed(source='image/aerial-view-of-seashore-near-large-grey-rocks-853199.jpg')]
+    private const FAKE_IMG_1:Class;
+
     public var arrLevel:Array = [];
+
 
     public var BackVisible:Boolean = false;
 
@@ -61,11 +65,12 @@ public class MenuLevel extends Sprite{
         }
     }
 
-    function removeAllLevelPicker():void{
-        for each(var o:Sprite in arrLevel){
-            removeChild(o);
-        }
+    function openLevel6(e:MouseEvent):void{
+        var img1:DisplayObject = new FAKE_IMG_1();
+        addChild(img1);
     }
+
+
 
     function openLevelLock(e:MouseEvent):void{
         var nope:NopePopUp = new NopePopUp();

@@ -20,15 +20,8 @@ public class answerSprite extends Sprite{
         graphics.beginFill(0x5D527D, 0); // grey color
         graphics.drawRect(tickRight.x, tickRight.y, tickRight.width, tickRight.height);
         graphics.endFill();
-        addEventListener(MouseEvent.MOUSE_DOWN, onClick);
         tickRight.visible = false;
     }
-
-    function onClick(e:MouseEvent):void{
-        tickRight.visible = true;
-        removeEventListener(MouseEvent.MOUSE_DOWN, onClick);
-    }
-//
 //    function onClickTick(e:MouseEvent):void{
 //        tickRight.visible = true;
 //        isClicked = true;

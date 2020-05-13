@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97f6f5b6-ca82-4a6b-8b80-23ebe0edb22f" name="Default Changelist" comment="" />
+    <list default="true" id="97f6f5b6-ca82-4a6b-8b80-23ebe0edb22f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindDifference/FDMain.as" beforeDir="false" afterPath="$PROJECT_DIR$/FindDifference/FDMain.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindDifference/answerSprite.as" beforeDir="false" afterPath="$PROJECT_DIR$/FindDifference/answerSprite.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainMenu/Main.as" beforeDir="false" afterPath="$PROJECT_DIR$/MainMenu/Main.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainMenu/MenuLevel.as" beforeDir="false" afterPath="$PROJECT_DIR$/MainMenu/MenuLevel.as" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/DiemDocObj.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/DiemNgangObj.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/MatchGameMain.as" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/diemdoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/diemdocgay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/diemngang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MatchGame/diemnganggay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestGame1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestGame1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Assets.car" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Assets.car" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-114.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-120.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-128.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-144.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-152.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-16.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-167.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-167.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-172.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-172.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-180.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-196.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-196.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-256.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-256.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-29.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-32.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-40.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-48.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-50.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-512.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-55.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-57.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-58.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-60.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-72.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-76.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-80.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-87.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-88.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-88.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Notification.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Notification.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Notification@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Notification@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Notification@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Notification@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Small-120.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Small-120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Small-40.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Small-40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Small-80.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Small-80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Small.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Small.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Small@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Small@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon-Small@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon-Small@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon/Icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/icon/Icon@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/Cer_dev.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/Certificates.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/Certificates_dis.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/Profile_dis-4.mobileprovision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/chan_dev-2.mobileprovision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/hung_test_dev.mobileprovision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cer/vilanphuong_dev.mobileprovision" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios_development.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ios_development.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios_release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ios_release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BubbleMain.as" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubbleMain.as" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +84,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1at1Ckel1DDJaTq02MRgusGPgr3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,9 +99,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/icon" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -48,11 +120,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/icon" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/HiddenQuest" />
       <recent name="$PROJECT_DIR$/cer" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/.idea" />
-      <recent name="$PROJECT_DIR$/MainMenu/font" />
-      <recent name="$PROJECT_DIR$/MainMenu/sound" />
+      <recent name="$PROJECT_DIR$/MainMenu/image" />
     </key>
   </component>
   <component name="RunManager" selected="Flash App.IOS_RELEASE">
@@ -217,7 +289,14 @@
       <workItem from="1588753166104" duration="9422000" />
       <workItem from="1588816838920" duration="20215000" />
       <workItem from="1588846202045" duration="1678000" />
-      <workItem from="1588903090761" duration="20539000" />
+      <workItem from="1588903090761" duration="22838000" />
+      <workItem from="1589162816567" duration="8758000" />
+      <workItem from="1589184691735" duration="141000" />
+      <workItem from="1589184867846" duration="2368000" />
+      <workItem from="1589187702214" duration="2116000" />
+      <workItem from="1589250675692" duration="3136000" />
+      <workItem from="1589335855424" duration="521000" />
+      <workItem from="1589343074572" duration="1907000" />
     </task>
     <servers />
   </component>
@@ -229,10 +308,10 @@
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
     <state x="543" y="196" key="#Project_Structure/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588846407181" />
-    <state x="347" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588932229760">
+    <state x="347" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589184549565">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state x="347" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588932229760" />
+    <state x="347" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589184549565" />
     <state x="304" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.986@0.23.1680.986" timestamp="1587541042998" />
     <state x="659" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588760441806">
       <screen x="0" y="23" width="1920" height="1016" />
@@ -244,60 +323,64 @@
     </state>
     <state width="660" height="596" key="DebuggerActiveHint/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588817656365" />
     <state width="577" height="578" key="DebuggerActiveHint/0.23.1680.986@0.23.1680.986" timestamp="1588040418003" />
-    <state width="1878" height="275" key="GridCell.Tab.0.bottom" timestamp="1588927891971">
+    <state width="1878" height="340" key="GridCell.Tab.0.bottom" timestamp="1589270535586">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="275" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891971" />
+    <state width="1878" height="340" key="GridCell.Tab.0.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535586" />
     <state width="1638" height="329" key="GridCell.Tab.0.bottom/0.23.1680.986@0.23.1680.986" timestamp="1588149865287" />
-    <state width="1878" height="275" key="GridCell.Tab.0.center" timestamp="1588927891970">
+    <state width="1878" height="340" key="GridCell.Tab.0.center" timestamp="1589270535585">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="275" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891970" />
+    <state width="1878" height="340" key="GridCell.Tab.0.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535585" />
     <state width="1638" height="329" key="GridCell.Tab.0.center/0.23.1680.986@0.23.1680.986" timestamp="1588149865285" />
-    <state width="1878" height="275" key="GridCell.Tab.0.left" timestamp="1588927891970">
+    <state width="1878" height="340" key="GridCell.Tab.0.left" timestamp="1589270535584">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="275" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891970" />
+    <state width="1878" height="340" key="GridCell.Tab.0.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535584" />
     <state width="1638" height="329" key="GridCell.Tab.0.left/0.23.1680.986@0.23.1680.986" timestamp="1588149865283" />
-    <state width="1878" height="275" key="GridCell.Tab.0.right" timestamp="1588927891971">
+    <state width="1878" height="340" key="GridCell.Tab.0.right" timestamp="1589270535585">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="275" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588927891971" />
+    <state width="1878" height="340" key="GridCell.Tab.0.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535585" />
     <state width="1638" height="329" key="GridCell.Tab.0.right/0.23.1680.986@0.23.1680.986" timestamp="1588149865286" />
-    <state width="1878" height="340" key="GridCell.Tab.1.bottom" timestamp="1588908599134">
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom" timestamp="1589270535589">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.1.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599134" />
+    <state width="1878" height="340" key="GridCell.Tab.1.bottom/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535589" />
     <state width="1638" height="329" key="GridCell.Tab.1.bottom/0.23.1680.986@0.23.1680.986" timestamp="1588149865288" />
-    <state width="1878" height="340" key="GridCell.Tab.1.center" timestamp="1588908599133">
+    <state width="1878" height="340" key="GridCell.Tab.1.center" timestamp="1589270535587">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.1.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599133" />
+    <state width="1878" height="340" key="GridCell.Tab.1.center/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535587" />
     <state width="1638" height="329" key="GridCell.Tab.1.center/0.23.1680.986@0.23.1680.986" timestamp="1588149865288" />
-    <state width="1878" height="340" key="GridCell.Tab.1.left" timestamp="1588908599132">
+    <state width="1878" height="340" key="GridCell.Tab.1.left" timestamp="1589270535586">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.1.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599132" />
+    <state width="1878" height="340" key="GridCell.Tab.1.left/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535586" />
     <state width="1638" height="329" key="GridCell.Tab.1.left/0.23.1680.986@0.23.1680.986" timestamp="1588149865287" />
-    <state width="1878" height="340" key="GridCell.Tab.1.right" timestamp="1588908599134">
+    <state width="1878" height="340" key="GridCell.Tab.1.right" timestamp="1589270535587">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state width="1878" height="340" key="GridCell.Tab.1.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588908599134" />
+    <state width="1878" height="340" key="GridCell.Tab.1.right/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589270535587" />
     <state width="1638" height="329" key="GridCell.Tab.1.right/0.23.1680.986@0.23.1680.986" timestamp="1588149865288" />
-    <state x="375" y="99" key="SettingsEditor" timestamp="1588932232799">
+    <state x="375" y="99" key="SettingsEditor" timestamp="1589186747619">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state x="375" y="99" key="SettingsEditor/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588932232799" />
+    <state x="375" y="99" key="SettingsEditor/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589186747619" />
     <state x="328" y="97" key="SettingsEditor/0.23.1680.986@0.23.1680.986" timestamp="1588067703700" />
-    <state x="114" y="126" width="1692" height="810" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588824994004">
+    <state x="100" y="123" width="1720" height="816" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1589251192397">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state x="114" y="126" width="1692" height="810" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588824994004" />
+    <state x="100" y="123" width="1720" height="816" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589251192397" />
+    <state x="114" y="126" width="1692" height="810" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589252702028">
+      <screen x="0" y="23" width="1920" height="1016" />
+    </state>
+    <state x="114" y="126" width="1692" height="810" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589252702028" />
     <state x="100" y="123" width="1480" height="786" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1680.986@0.23.1680.986" timestamp="1587715733184" />
-    <state x="640" y="288" width="639" height="486" key="find.popup" timestamp="1588924862554">
+    <state x="640" y="288" width="639" height="486" key="find.popup" timestamp="1589355799332">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
-    <state x="640" y="288" width="639" height="486" key="find.popup/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588924862554" />
+    <state x="640" y="288" width="639" height="486" key="find.popup/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1589355799332" />
     <state x="688" y="155" key="refactoring.ChangeSignatureDialog" timestamp="1588762780744">
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
@@ -310,16 +393,5 @@
       <screen x="0" y="23" width="1920" height="1016" />
     </state>
     <state x="625" y="249" width="670" height="676" key="search.everywhere.popup/-1280.23.1280.777/0.23.1920.1016@0.23.1920.1016" timestamp="1588824061023" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="flex">
-          <url>file://$PROJECT_DIR$/MainMenu/Main.as</url>
-          <line>62</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
